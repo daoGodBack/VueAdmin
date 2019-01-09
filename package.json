@@ -21,6 +21,7 @@
     "echarts": "^4.2.0-rc.2",
     "element-ui": "^2.4.11",
     "font-awesome": "^4.7.0",
+    "mockjs": "^1.0.1-beta3",
     "throttle-debounce": "^2.0.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
