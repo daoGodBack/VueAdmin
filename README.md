@@ -1,4 +1,4 @@
-# wangzhao
+#VUE-ADMIN TEMPLATE wangzhao
 
 > A Vue.js project
 项目使用vuex进行状态管理，引入mock模拟数据源，通过axios异步请求，采用element-ui前端组件，eslint代码管理
