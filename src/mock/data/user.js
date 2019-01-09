@@ -5,7 +5,7 @@ const LoginUser = [
     username: 'daodao',
     password: '123456',
     avatar: 'https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/user.png',
-    name: '贺婉斐'
+    name: '宝宝'
   }
 ]
 
